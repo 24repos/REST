@@ -1,1 +1,1 @@
-# REST
+# Student REST API
